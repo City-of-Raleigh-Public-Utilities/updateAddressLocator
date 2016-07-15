@@ -1,3 +1,3 @@
 # updateAddressLocator
 
-script for update Composite address locator for geocoding 
+script for updating Composite address locator for geocoding 
