@@ -1,4 +1,4 @@
-#Monthly script to update address locator for geocoding
+#Monthly update for custom address locator used in geocoding 
 #Created by Joe Zheng Li, PU GIS, joe.li@raleighnc.gov
 import arcpy
 import os, sys
