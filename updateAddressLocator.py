@@ -9,7 +9,7 @@ filedir = "//corfile/Public_Utilities_NS/5215_Capital_Improvement_Projects/636_G
 geocodeWkspace = filedir + "/geocodingMaster.gdb"
 RPUDwkspace = os.path.join(os.path.dirname(sys.argv[0]), r"RPUD_TESTDB.sde\RALEIGH.MAR")
 WAKEwkspace = os.path.join(os.path.dirname(sys.argv[0]), "WAKE_PRODDB.sde")
-# RPUDwkspace = "Database Connections/RPUD_TESTDB.sde/RALEIGH.MAR"
+# RPUDwkspace = "Database Connections/RPUD_PRODDB.sde/RALEIGH.MAR"
 # WAKEwkspace = "Database Connections/WAKE_PRODDB.sde"
 
 arcpy.env.workspace = filedir
